@@ -1,0 +1,32 @@
+[
+  {
+    "FirstName": "Adri",
+    "SecondName": "Daa",
+    "Sex": "Male",
+    "City": "sad",
+    "PostalCode": "62158",
+    "StreetAddress": "asd",
+    "HouseNumber": "asd",
+    "Age": 23
+  },
+  {
+    "FirstName": "Adri",
+    "SecondName": "dADI",
+    "Sex": "Female",
+    "City": "Mgcccc",
+    "PostalCode": "654",
+    "StreetAddress": "labodz",
+    "HouseNumber": "dupaaa",
+    "Age": 25
+  },
+  {
+    "FirstName": "plo",
+    "SecondName": "jip11",
+    "Sex": "Male",
+    "City": "pol",
+    "PostalCode": "77-666",
+    "StreetAddress": "kolek",
+    "HouseNumber": "1",
+    "Age": 11
+  }
+]
